@@ -1,5 +1,7 @@
 # darktimes calendar
-Block out when the sun's not out as a daily Google calendar event. Each event starts at sunset, and ends at sunrise. 
+- block out when the sun's not out as a daily Google calendar event
+- each event starts at sunset, and ends at sunrise
+- uses https://sunrisesunset.io/api/ (thanks!)
 
 <img width="1491" alt="image" src="https://github.com/e-lu6a/darktimes-calendar/assets/5528032/9480b621-2522-4fc5-8be4-37f457241835">
 
