@@ -12,6 +12,9 @@
 
 <img width="1783" alt="image" src="https://github.com/e-lu6a/darktimes-calendar/assets/5528032/0724cdf0-e7b6-4e43-b9b4-58d125ba2122">
 
+### known issues
+- right now, no adjustment for daylight savings, so you need to manually tweak the appscript twice a year.
+
 ## PST version
 If you are in Pacific Standard Time, and want the calendar as is, feel free to subscribe to [my existing calendar](https://calendar.google.com/calendar/u/0?cid=NGUyNDhhZjEyZTkxMWFiMjA5ZjNkOWQ0YmMwNDliZjMwNThiMDZhOTQyYzNiNjBkOTYzYTM2MjQ1ODFhMDQ1N0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t). 
 It will bulk add new events at the beginning of each month.
